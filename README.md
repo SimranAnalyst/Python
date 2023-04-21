@@ -1,1 +1,2 @@
 # Financial-Analysis-of-J-J
+For this endeavor, financial data sourced from Yahoo Finance was utilized to conduct an analysis of Johnson and Johnson's income statements, balance sheets, and cash flows. Various financial ratios, the CAPM model, and Monte Carlo simulation were employed to evaluate the data. Additionally, techniques such as Simple Moving Average (SMA), Exponential Moving Average (EMA), and FB Prophet were utilized to forecast the future stock prices of Johnson and Johnson using the most recent two years' data.
